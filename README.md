@@ -2,6 +2,8 @@
 
 Project to demonstrate a bug with ddtrace and gevent.
 
+Video Demo: https://www.loom.com/share/60d9c18fe7b04cca852a73bbac924b54
+
 ## Setup
 
 Create venv and install dependencies:
