@@ -11,9 +11,9 @@ attrs==22.2.0
     #   cattrs
     #   ddtrace
     #   jsonschema
-boto3==1.26.97
+boto3==1.26.98
     # via -r requirements.in
-botocore==1.29.97
+botocore==1.29.98
     # via
     #   boto3
     #   s3transfer
@@ -23,7 +23,7 @@ cattrs==22.2.0
     # via ddtrace
 ddsketch==2.0.4
     # via ddtrace
-ddtrace==1.10.0
+ddtrace==1.10.1
     # via -r requirements.in
 django==4.1.7
     # via
